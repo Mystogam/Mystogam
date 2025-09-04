@@ -34,17 +34,10 @@ I’m a passionate computer science student with a love for hands-on problem sol
 - **Futurist:** Dreaming up ways AI can turn game development on its head in a positive way
 ---
 
-## 🌟 My Ambition
+## 🌟 Goal
 
-> **I aspire to create AI tools that empower both indie and AAA developers to craft better, more intuitive gaming experiences.**  
+> **I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive gaming experiences.**  
 > One day, I want to be at the frontier where creativity, code, and intelligent systems meet to shape the future of gaming.
-
----
-
-<!-- Optionally add your social links here!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](YOUR-LINKEDIN)
-[![Website](https://img.shields.io/badge/Website-grey?logo=google-chrome&style=flat)](YOUR-WEBSITE)
--->
 
 ---
 
