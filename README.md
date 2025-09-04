@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mystogam!
 
 🎓 **Student in Computer Science**  
-💻 **Languages:** C++ (and growing!)  
+💻 **Languages:** C++, currently attempting to learn swift  
 🌱 **Learning through experience – I blossom best under real challenges.**
 
 ---
@@ -15,8 +15,7 @@ I’m a passionate computer science student with a love for hands-on problem sol
 ## 🏆 Featured Repositories
 
 - [📚 Library-CSIS-135](https://github.com/Mystogam/Library-CSIS-135) 
-- [🚀 Swift Code Fundamentals](https://github.com/Mystogam/Swift-Code-Fundamentals)  
-*Explore my C++ and Swift projects, where I build foundational and practical coding skills!*
+- [🚀 Swift Code Fundamentals](https://github.com/Mystogam/Swift-Code-Fundamentals)
 
 ---
 
@@ -24,7 +23,7 @@ I’m a passionate computer science student with a love for hands-on problem sol
 
 - Quick, adaptive problem-solving
 - Eager to learn and grow through experience
-- Team player and solo explorer
+- Great understanding of Teamwork
 
 ---
 
@@ -36,7 +35,7 @@ I’m a passionate computer science student with a love for hands-on problem sol
 
 ## 🌟 Goal
 
-> **I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive gaming experiences.**  
+> **I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive gaming experiences for all.**  
 > One day, I want to be at the frontier where creativity, code, and intelligent systems meet to shape the future of gaming.
 
 ---
