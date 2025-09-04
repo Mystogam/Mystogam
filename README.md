@@ -14,8 +14,7 @@ I’m a passionate computer science student with a love for hands-on problem sol
 
 ## 🏆 Featured Repositories
 
-- [📚 Library-CSIS-135](https://github.com/Mystogam/Library-CSIS-135)  
-- [📚 Library-CSIS-135 (GCC-CSIS)](https://github.com/GCC-CSIS/spring-2025-csis-135-assignment-4-factorial-calculator-Mystogam)  
+- [📚 Library-CSIS-135](https://github.com/Mystogam/Library-CSIS-135) 
 - [🚀 Swift Code Fundamentals](https://github.com/Mystogam/Swift-Code-Fundamentals)  
 *Explore my C++ and Swift projects, where I build foundational and practical coding skills!*
 
