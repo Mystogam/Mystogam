@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a passionate computer science student with a love for hands-on problem solving. I thrive when under pressure, especially when tackling tough coding challenges or exploring new technology that I have to familiar myself with. I believe the best growth comes from practical experience, something that I believe can be replicated in a controlled enviornment.
 
 ---
 
-## 🏆 Featured Repositories
+## Featured Repositories
 
-- [📚 Library-CSIS-135](https://github.com/Mystogam/Library-CSIS-135) 
-- [🚀 Swift Code Fundamentals](https://github.com/Mystogam/Swift-Code-Fundamentals)
+- [ Library-CSIS-135](https://github.com/Mystogam/Library-CSIS-135) 
+- [ Swift Code Fundamentals](https://github.com/Mystogam/Swift-Code-Fundamentals)
 
 ---
 
@@ -36,10 +36,10 @@ I’m a passionate computer science student with a love for hands-on problem sol
 
 ## 🌟 Goals
 
-> **I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive and diverse gaming experiences for all**  
-> One day, I want to be at the frontier where creativity, code, and intelligent systems meet to shape the future of gaming.
-> To be able to make my own compiler
-> Be the developer and person that others feel comftorble to reach out towards for help
+- **I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive and diverse gaming experiences for all**  
+- One day, I want to be at the frontier where creativity, code, and intelligent systems meet to shape the future of gaming.
+- To be able to make my own compiler
+- Be the developer and person that others feel comftorble to reach out towards for help
 
 ---
 
