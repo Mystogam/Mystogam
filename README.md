@@ -1,47 +1,57 @@
-# 👋 Hi, I'm Mystogam!
+# Hey, I'm Christopher 👋
 
-🎓 **Student in Computer Science**  
-💻 **Languages:** C++, currently attempting to learn swift  
-🌱 **Learning through experience – I blossom best under real challenge.**
+**Computer Science Student · Mobile Developer · Systems Enthusiast**
 
----
-
-## About Me
-
-I’m a passionate computer science student with a love for hands-on problem solving. I thrive when under pressure, especially when tackling tough coding challenges or exploring new technology that I have to familiar myself with. I believe the best growth comes from practical experience, something that I believe can be replicated in a controlled enviornment.
+I'm a CS student at Glendale Community College preparing to transfer in 2026, with sights set on machine learning research and graduate school. Right now I'm building cross-platform mobile apps professionally and physics simulation libraries for fun.
 
 ---
 
-## Featured Repositories
+## What I'm Working On
 
-- [ Library-CSIS-135](https://github.com/Mystogam/Library-CSIS-135) 
-- [ Swift Code Fundamentals](https://github.com/Mystogam/Swift-Code-Fundamentals)
+**Archimedes** · *C++ Physics & Linear Algebra Library*
+A from-scratch computational library covering kinematics, orbital mechanics, collision detection, and matrix operations. Includes comprehensive Google Test suites and modular header design for physics and special matrix types.
 
----
-
-## 🧠 Strengths & Skills
-
-- Quick/Adaptive problem-solving
-- Eager to learn and grow through experience
-- Great understanding of Teamwork
+**Solar System Time Machine** · *C++*
+An interactive simulation exploring planetary mechanics and time-scaled orbital motion.
 
 ---
 
-## 🎮 Hobbies & Interests
+## Tech I Use
 
-- **Gaming:** League of Legends, Stellaris, Warhammer 40k, Space Marine 2
-- **Futurist:** Dreaming up ways AI can turn game development on its head in a positive way that would be accepted by even art purists
+**Languages:** C++ · Kotlin · Swift · C# · Python · Fortran
 
----
+**Mobile & UI:** Jetpack Compose · Firebase Auth · MVVM + StateFlow · Android SDK
 
-## 🌟 Goals
+**Tools & Workflow:** Git · Sapling VCS · Google Test · WSL2/Ubuntu · CMake
 
-- **I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive and diverse gaming experiences for all**  
-- One day, I want to be at the frontier where creativity, code, and intelligent systems meet to shape the future of gaming.
-- To be able to make my own compiler
-- Be the developer and person that others feel comftorble to reach out towards for help
+**Exploring:** Machine Learning (QLoRA fine-tuning, inference on consumer GPUs) · Unity Game Development
 
 ---
 
-Thanks for visiting! 🚀  
-*Let’s build something awesome together.*
+## Coursework
+
+Data Structures · Object-Oriented Programming · Discrete Mathematics · Calculus I & II
+
+---
+
+## A Bit More About Me
+
+- Baseball/Hockey fan with a soft spot for sports analytics
+- Big anime & light novel reader — ask me about DanMachi
+- Built my own dev/ML workstation
+- Exploring game dev with C#/C++ in Unity and Unreal Engine on the side
+
+---
+
+## Let's Connect
+
+Linkedin: https://www.linkedin.com/in/christopher-alexan-03279035a
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mystogam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystogam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
