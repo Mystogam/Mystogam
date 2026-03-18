@@ -16,6 +16,11 @@ An interactive simulation exploring planetary mechanics and time-scaled orbital 
 
 ---
 
+**I aspire to create AI tools that empowers both indie and AAA developers to craft better, more intuitive and diverse gaming experiences for all**  
+- One day, I want to be at the frontier where creativity, code, and intelligent systems meet to shape the future of gaming.
+- To be able to make my own compiler
+- Be the developer and person that others feel comftorble to reach out towards for help
+
 ## Tech I Use
 
 **Languages:** C++ · Kotlin · Swift · C# · Python · Fortran
